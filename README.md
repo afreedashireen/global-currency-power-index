@@ -77,5 +77,3 @@ Displays ranking changes from 2000–2024.
 ## Interactive Dashboard
 
 An interactive dashboard was built using Streamlit to explore the CCPI dataset dynamically.
-
-Run locally:
